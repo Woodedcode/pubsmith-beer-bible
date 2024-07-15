@@ -191,6 +191,107 @@
     width: 19%;
 }
 
+.kriek{
+    height: auto;
+    width: 45%;
+}
+
+.peache{
+    height: auto;
+    width: 20%;
+}
+
+.maredsous{
+    height: auto;
+    width: 25%;
+}
+
+.newcastle{
+    height: auto;
+    width: 45%;
+}
+
+.orval{
+    height: auto;
+    width: 18%;
+}
+
+.po{
+    height: auto;
+    width: 45%;
+}
+
+.ps{
+    height: auto;
+    width: 28%;
+}
+
+.pilsner{
+    height: auto;
+    width: 18%;
+}
+
+.rochefort{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rochefort6{
+    height: auto;
+    width: 30%;
+}
+
+.rochefort8{
+    height: auto;
+    width: 41%;
+}
+
+.rf8{
+    height: auto;
+    width: 10%;
+}
+
+.rochefort10{
+    height: auto;
+    width: 22%;
+}
+
+.rf10{
+    height: auto;
+    width: 9%;
+}
+
+.SNPA{
+    height: auto;
+    width: 30%;
+}
+
+.tripkarmeliet{
+    height: auto;
+    width: 15%;
+}
+
+.wdw{
+    height: auto;
+    width: 15%;
+}
+
+.WMD{
+    height: auto;
+    width: 10%;
+}
+
+.WMT{
+    height: auto;
+    width: 35%;
+}
+
+.yuengling{
+    height: auto;
+    width: 10%;
+}
+
 .ayinger{
     height: auto;
     width: 8%;
