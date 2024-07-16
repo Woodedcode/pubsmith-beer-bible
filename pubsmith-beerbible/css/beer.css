@@ -1,143 +1,52 @@
-/* FOR BEER LISTS */
-
-/* BEER */
-.delirium{
+/* OLD MONK BEER */
+.ayinger{
     height: auto;
-    width: 18%;
-}
-.lt{
-    height: auto;
-    width: 15%;
+    width: 10%;
 }
 
-.lakewood-glass{
+.carlsberg{
+    height: auto;
+    width: 8%;
+}
+
+.CR{
     height: auto;
     width: 30%;
 }
 
-.CMGH{
-    height: auto;
-    width: 15%;
-}
-
-.DEIPA{
-    height: auto;
-    width: 10%;
-}
-
-.DEIPA-glass{
-    height: auto;
-    width: 20%;
-}
-
-.PCGO{
-    height: auto;
-    width: 15%;
-}
-
-.DEB{
-    height: auto;
-    width: 15%;
-}
-
-.dedb-glass{
-    height: auto;
-    width: 15%;
-}
-
-.BH{
-    height: auto;
-    width: 15%;
-}
-
-.AECDC{
-    height: auto;
-    width: 15%;
-}
-
-.AECDC-glass{
-    height: auto;
-    width: 15%;
-}
-
-.BTHIPA{
-    height: auto;
-    width: 15%;
-}
-
-.BTHIPA-glass{
-    height: auto;
-    width: 20%;
-}
-
-.PH-glass{
-    height: auto;
-    width: 10%;   
-}
-
-.KB{
-    height: auto;
-    width: 15%;
-}
-
-.SIA{
-    height: auto;
-    width: 15%;
-}
-
-.SIA-glass{
-    height: auto;
-    width: 10%;
-}
-
-.GDIS{
-    height: auto;
-    width: 15%;
-}
-
-.GDIS-glass{
-    height: auto;
-    width: 18%;
-}
-
-.SNB{
-    height: auto;
-    width: 15%;
-}
-
 .CGR{
     height: auto;
-    width: 25%;
+    width: 30%;
 }
 
 .CM{
     height: auto;
-    width: 18%;
+    width: 25%;
 }
 
 .CZECH{
     height: auto;
-    width: 18%;
+    width: 25%;
 }
 
 .DN{
     height: auto;
-    width: 18%;
+    width: 25%;
 }
 
 .DFH60{
     height: auto;
-    width: 22%;
+    width: 35%;
 }
 
 .DDB{
     height: auto;
-    width: 20%;
+    width: 35%;
 }
 
 .DSB{
     height: auto;
-    width: 15%;
+    width: 25%;
 }
 
 .FCLB{
@@ -147,53 +56,52 @@
 
 .GROLSCH{
     height: auto;
-    width: 13%;
+    width: 15%;
 }
-
 
 .G0{
     height: auto;
-    width: 20%;
+    width: 35%;
 }
 
 .HEINE{
     height: auto;
-    width: 17%;
+    width: 25%;
 }
 
 .HEINE0{
     height: auto;
-    width: 15%;
+    width: 20%;
 }
 
 .K64B{
     height: auto;
-    width: 11%;
+    width: 18%;
 }
 
 .LC{
     height: auto;
-    width: 15%;
+    width: 25%;
 }
 
 .LGIPA{
     height: auto;
-    width: 7%;
+    width: 10%;
 }
 
 .LFDM{
     height: auto;
-    width: 22%;
+    width: 30%;
 }
 
 .LTQ{
     height: auto;
-    width: 19%;
+    width: 25%;
 }
 
-.kriek{
+.KRIEK{
     height: auto;
-    width: 45%;
+    width: 35%;
 }
 
 .peache{
@@ -203,12 +111,17 @@
 
 .maredsous{
     height: auto;
-    width: 25%;
+    width: 15%;
+}
+
+.mhsaltylady{
+    height: auto;
+    width: 35%;
 }
 
 .newcastle{
     height: auto;
-    width: 45%;
+    width: 35%;
 }
 
 .orval{
@@ -218,17 +131,17 @@
 
 .po{
     height: auto;
-    width: 45%;
+    width: 35%;
 }
 
 .ps{
     height: auto;
-    width: 28%;
+    width: 22%;
 }
 
 .pilsner{
     height: auto;
-    width: 18%;
+    width: 15%;
 }
 
 .rochefort{
@@ -262,9 +175,23 @@
     width: 9%;
 }
 
+.sd{
+    /* PLACEHOLDER */
+}
+
+.sscs{
+    height: auto;
+    width: 35%;
+}
+
 .SNPA{
     height: auto;
-    width: 30%;
+    width: 18%;
+}
+
+.stoneipa{
+    height: auto;
+    width: 35%;
 }
 
 .tripkarmeliet{
@@ -300,9 +227,4 @@
 .XX{
     height: auto;
     width: 10%;
-}
-
-.ayinger{
-    height: auto;
-    width: 8%;
 }
