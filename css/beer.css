@@ -1,0 +1,424 @@
+/* OLD MONK BEER */
+/* DRAFT BEER */
+.stella{
+    height: auto;
+    width: 30%;
+}
+
+.delirium{
+    height: auto;
+    width: 10%;
+}
+
+.hoegarrden {
+    height: auto;
+    width: 50%;
+}
+
+.lakewood-temp{
+    height: auto;
+    width: 15%;
+}
+
+.CMGH{
+    height: auto;
+    width: 15%;
+}
+
+.DEIPA{
+    height: auto;
+    width: 18%;
+}
+
+.PCGO{
+    height: auto;
+    width: 20%;
+}
+
+.DEB{
+    height: auto;
+    width: 20%;
+}
+
+.BH{
+    height: auto;
+    width: 15%;
+}
+
+.AECDC{
+    height: auto;
+    width: 20%;
+}
+
+.bells{
+    height: auto;
+    width: 20%;
+}
+
+.paulanerdraft{
+    height: auto;
+    width: 45%;
+}
+
+.kb1664{
+    height: auto;
+    width: 25%;
+}
+
+/* COMBO BEER */
+.black-tan{
+    height: auto;
+    width: 30%;
+}
+
+.half-half{
+    height: auto;
+    width: 30%;
+}
+
+.SNB{
+    height: auto;
+    width: 15%;
+}
+
+.blv{
+    height: auto;
+    width: 20%;
+}
+
+/* BOTTLED BEER */
+.ayinger{
+    height: auto;
+    width: 10%;
+}
+
+.carlsberg{
+    height: auto;
+    width: 12%;
+}
+
+.CR{
+    height: auto;
+    width: 40%;
+}
+
+.CGR{
+    height: auto;
+    width: 40%;
+}
+
+.CM{
+    height: auto;
+    width: 25%;
+}
+
+.CZECH{
+    height: auto;
+    width: 45%;
+}
+
+.DN{
+    height: auto;
+    width: 45%;
+}
+
+.DFH60{
+    height: auto;
+    width: 45%;
+}
+
+.DDB{
+    height: auto;
+    width: 40%;
+}
+
+.duvel{
+    height: auto;
+    width: 55%;
+}
+
+.fclb{
+    height: auto;
+    width: 25%;
+}
+
+.GROLSCH{
+    height: auto;
+    width: 25%;
+}
+
+.G0{
+    height: auto;
+    width: 35%;
+}
+
+.HEINE{
+    height: auto;
+    width: 35%;
+}
+
+.HEINE0{
+    height: auto;
+    width: 30%;
+}
+
+.K64B{
+    height: auto;
+    width: 20%;
+}
+
+.LC{
+    height: auto;
+    width: 25%;
+}
+
+.LGIPA{
+    height: auto;
+    width: 12%;
+}
+
+.LFDM{
+    height: auto;
+    width: 45%;
+}
+
+.LTQ{
+    height: auto;
+    width: 40%;
+}
+
+.leffe{
+    height: auto;
+    width: 35%;
+}
+
+.lkriek{
+    height: auto;
+    width: 45%;
+}
+
+.lpeache{
+    height: auto;
+    width: 20%;
+}
+
+.maredsous{
+    height: auto;
+    width: 20%;
+}
+
+.mhsaltylady{
+    height: auto;
+    width: 45%;
+}
+
+.newcastle{
+    height: auto;
+    width: 45%;
+}
+
+.orval{
+    height: auto;
+    width: 18%;
+}
+
+.poktober{
+    height: auto;
+    width: 40%;
+}
+
+.psalvator{
+    height: auto;
+    width: 35%;
+}
+
+.pilsner{
+    height: auto;
+    width: 20%;
+}
+
+.rochefort{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rochefort6{
+    height: auto;
+    width: 30%;
+}
+
+.r6-flex{
+    height: auto;
+    width: 90%;
+}
+
+.rochefort8{
+    height: auto;
+    width: 10%;
+}
+
+.r8-flex{
+    height: auto;
+    width: 35%;
+}
+
+.rochefort10{
+    height: auto;
+    width: 8%;
+}
+
+.r10-flex{
+    height: auto;
+    width: 20%;
+}
+
+.sdupont{
+    /* PLACEHOLDER */
+}
+
+.sscs{
+    height: auto;
+    width: 35%;
+}
+
+.SNPA{
+    height: auto;
+    width: 25%;
+}
+
+.stoneipa{
+    height: auto;
+    width: 35%;
+}
+
+.tripkarmeliet{
+    height: auto;
+    width: 15%;
+}
+
+.wdw{
+    height: auto;
+    width: 15%;
+}
+
+.WMD{
+    height: auto;
+    width: 10%;
+}
+
+.WMT{
+    height: auto;
+    width: 35%;
+}
+
+.yuengling{
+    height: auto;
+    width: 10%;
+}
+
+.domestic{
+    height: auto;
+    width: 30%;
+}
+
+.XX{
+    height: auto;
+    width: 10%;
+}
+/* SKELLIG */
+/* DRAFT BEER */
+.guinness{
+    height: auto;
+    width: 18%;
+}
+
+.magners{
+    height: auto;
+    width: 18%;
+}
+
+.modelo{
+    /* PLACEHOLDER */
+}
+
+.odell{
+    height: auto;
+    width: 35%;
+}
+
+.bh{
+    height: auto;
+    width: 25%;
+}
+
+.SNHLT{
+    height: auto;
+    width: 25%;
+}
+
+.steigl{
+    height: auto;
+    width: 16%;
+}
+/* ROTATOR BEER */
+.deipa{
+    height: auto;
+    width: 40%;
+}
+/* BOTTLED BEER */
+.ace-pear{
+    height: auto;
+    width: 30%;
+}
+
+.athletic{
+    /* PLACEHOLDER */
+}
+
+.austin-eastcider{
+    height: auto;
+    width: 28%;
+}
+
+.crack-berry{
+    height: auto;
+    width: 35%;
+}
+
+.cb-sk{
+    height: auto;
+    width: 12%;
+}
+
+.chimayred{
+    height: auto;
+    width: 40%;
+}
+
+.delirium{
+    height: auto;
+    width: 45%;
+}
+
+.dfh{
+    height: auto;
+    width: 35%;
+}
+
+
+.guinnessz{
+    height: auto;
+    width: 35%;
+}
+
+.high-noon{
+    height: auto;
+    width: 13%;
+}
+/* SPIDER MURPHYS  */
+/* DRAFT BEER */
+
+
+
+/* BOTTLED/CAN BEER */
